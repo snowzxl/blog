@@ -1,3 +1,3 @@
 # Personal blog
 
-Personal blog powered by [mdbook](https://github.com/rust-lang/mdBook).
+Personal blog powered by [mdBook](https://github.com/rust-lang/mdBook).
