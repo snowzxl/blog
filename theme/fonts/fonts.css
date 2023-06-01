@@ -1,0 +1,43 @@
+/* custom font */
+
+@font-face {
+  font-family: 'LXGW Bright';
+  font-style: normal;
+  src: local('LXGWBright-Regular'),
+  url('LXGWBright-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'LXGW Bright';
+  font-style: italic;
+  src: local('LXGWBright-Italic'),
+  url('LXGWBright-Italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'LXGW Bright';
+  font-style: normal;
+  src: local('LXGWBright-Medium'),
+  url('LXGWBright-Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'LXGW Bright';
+  font-style: italic;
+  src: local('LXGWBright-MediumItalic'),
+  url('LXGWBright-MediumItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'LXGW Bright';
+  font-style: normal;
+  src: local('LXGWBright-SemiLight'),
+  url('LXGWBright-SemiLight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'LXGW Bright';
+  font-style: italic;
+  src: local('LXGWBright-SemiLightItalic'),
+  url('LXGWBright-SemiLightItalic.woff2') format('woff2');
+}

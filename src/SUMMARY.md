@@ -1,6 +1,6 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[关于我](about_me.md)
 
 # 操作系统
 
@@ -9,4 +9,5 @@
 # 通信协议
 
 # 随想
-- [20230424](./Essay/2023/chapter_1.md)
+
+- [次回予告](Essay/2023/20230424.md)
